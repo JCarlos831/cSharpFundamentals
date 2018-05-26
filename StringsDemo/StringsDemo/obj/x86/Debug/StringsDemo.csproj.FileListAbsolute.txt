@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/StringsDemo/StringsDemo/bin/Debug/StringsDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/StringsDemo/StringsDemo/bin/Debug/StringsDemo.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/StringsDemo/StringsDemo/obj/x86/Debug/StringsDemo.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/StringsDemo/StringsDemo/obj/x86/Debug/StringsDemo.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/StringsDemo/StringsDemo/obj/x86/Debug/StringsDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/StringsDemo/StringsDemo/obj/x86/Debug/StringsDemo.pdb

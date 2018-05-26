@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/EnumDemo/EnumDemo/bin/Debug/EnumDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/EnumDemo/EnumDemo/bin/Debug/EnumDemo.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/EnumDemo/EnumDemo/obj/x86/Debug/EnumDemo.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/EnumDemo/EnumDemo/obj/x86/Debug/EnumDemo.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/EnumDemo/EnumDemo/obj/x86/Debug/EnumDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/EnumDemo/EnumDemo/obj/x86/Debug/EnumDemo.pdb
