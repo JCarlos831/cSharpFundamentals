@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ImageOrientation/ImageOrientation/bin/Debug/ImageOrientation.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ImageOrientation/ImageOrientation/bin/Debug/ImageOrientation.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ImageOrientation/ImageOrientation/obj/x86/Debug/ImageOrientation.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ImageOrientation/ImageOrientation/obj/x86/Debug/ImageOrientation.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ImageOrientation/ImageOrientation/obj/x86/Debug/ImageOrientation.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ImageOrientation/ImageOrientation/obj/x86/Debug/ImageOrientation.pdb

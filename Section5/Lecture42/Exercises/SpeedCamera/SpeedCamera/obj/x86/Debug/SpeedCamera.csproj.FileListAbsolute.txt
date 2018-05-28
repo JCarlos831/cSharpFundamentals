@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/SpeedCamera/SpeedCamera/bin/Debug/SpeedCamera.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/SpeedCamera/SpeedCamera/bin/Debug/SpeedCamera.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/SpeedCamera/SpeedCamera/obj/x86/Debug/SpeedCamera.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/SpeedCamera/SpeedCamera/obj/x86/Debug/SpeedCamera.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/SpeedCamera/SpeedCamera/obj/x86/Debug/SpeedCamera.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/SpeedCamera/SpeedCamera/obj/x86/Debug/SpeedCamera.pdb

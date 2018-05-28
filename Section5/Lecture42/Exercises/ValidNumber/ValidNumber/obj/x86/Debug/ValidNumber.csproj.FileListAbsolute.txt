@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ValidNumber/ValidNumber/bin/Debug/ValidNumber.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ValidNumber/ValidNumber/bin/Debug/ValidNumber.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ValidNumber/ValidNumber/obj/x86/Debug/ValidNumber.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ValidNumber/ValidNumber/obj/x86/Debug/ValidNumber.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ValidNumber/ValidNumber/obj/x86/Debug/ValidNumber.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/ValidNumber/ValidNumber/obj/x86/Debug/ValidNumber.pdb

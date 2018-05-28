@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4A2F266B-AC8E-4483-92D0-4B841E14AC97}|Default">
+  <MonoDevelop.Ide.ItemProperties.ImageOrientation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageOrientation/Program.cs">
+    <Files>
+      <File FileName="ImageOrientation/Program.cs" Line="16" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

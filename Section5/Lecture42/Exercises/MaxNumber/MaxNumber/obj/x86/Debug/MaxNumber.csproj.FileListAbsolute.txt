@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/MaxNumber/MaxNumber/bin/Debug/MaxNumber.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/MaxNumber/MaxNumber/bin/Debug/MaxNumber.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/MaxNumber/MaxNumber/obj/x86/Debug/MaxNumber.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/MaxNumber/MaxNumber/obj/x86/Debug/MaxNumber.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/MaxNumber/MaxNumber/obj/x86/Debug/MaxNumber.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture42/Exercises/MaxNumber/MaxNumber/obj/x86/Debug/MaxNumber.pdb
