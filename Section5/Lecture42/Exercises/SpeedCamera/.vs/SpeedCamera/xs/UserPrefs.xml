@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{AC480B2E-5C60-4D15-969F-84EDC194BDC9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SpeedCamera/Program.cs">
     <Files>
-      <File FileName="SpeedCamera/Program.cs" Line="1" Column="1" />
+      <File FileName="SpeedCamera/Program.cs" Line="28" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SpeedCamera PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SpeedCamera PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
