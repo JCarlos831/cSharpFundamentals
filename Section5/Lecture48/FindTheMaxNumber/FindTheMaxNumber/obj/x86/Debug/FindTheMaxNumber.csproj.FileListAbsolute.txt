@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/FindTheMaxNumber/FindTheMaxNumber/bin/Debug/FindTheMaxNumber.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/FindTheMaxNumber/FindTheMaxNumber/bin/Debug/FindTheMaxNumber.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/FindTheMaxNumber/FindTheMaxNumber/obj/x86/Debug/FindTheMaxNumber.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/FindTheMaxNumber/FindTheMaxNumber/obj/x86/Debug/FindTheMaxNumber.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/FindTheMaxNumber/FindTheMaxNumber/obj/x86/Debug/FindTheMaxNumber.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/FindTheMaxNumber/FindTheMaxNumber/obj/x86/Debug/FindTheMaxNumber.pdb

@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/DivisibleBy3NoRemainder/DivisibleBy3NoRemainder/bin/Debug/DivisibleBy3NoRemainder.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/DivisibleBy3NoRemainder/DivisibleBy3NoRemainder/bin/Debug/DivisibleBy3NoRemainder.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/DivisibleBy3NoRemainder/DivisibleBy3NoRemainder/obj/x86/Debug/DivisibleBy3NoRemainder.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/DivisibleBy3NoRemainder/DivisibleBy3NoRemainder/obj/x86/Debug/DivisibleBy3NoRemainder.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/DivisibleBy3NoRemainder/DivisibleBy3NoRemainder/obj/x86/Debug/DivisibleBy3NoRemainder.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/DivisibleBy3NoRemainder/DivisibleBy3NoRemainder/obj/x86/Debug/DivisibleBy3NoRemainder.pdb

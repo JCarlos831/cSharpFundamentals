@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/SumOfEnteredNumbers/SumOfEnteredNumbers/bin/Debug/SumOfEnteredNumbers.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/SumOfEnteredNumbers/SumOfEnteredNumbers/bin/Debug/SumOfEnteredNumbers.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/SumOfEnteredNumbers/SumOfEnteredNumbers/obj/x86/Debug/SumOfEnteredNumbers.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/SumOfEnteredNumbers/SumOfEnteredNumbers/obj/x86/Debug/SumOfEnteredNumbers.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/SumOfEnteredNumbers/SumOfEnteredNumbers/obj/x86/Debug/SumOfEnteredNumbers.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/SumOfEnteredNumbers/SumOfEnteredNumbers/obj/x86/Debug/SumOfEnteredNumbers.pdb

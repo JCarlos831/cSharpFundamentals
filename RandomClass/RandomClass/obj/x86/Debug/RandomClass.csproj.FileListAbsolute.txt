@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/RandomClass/RandomClass/bin/Debug/RandomClass.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/RandomClass/RandomClass/bin/Debug/RandomClass.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/RandomClass/RandomClass/obj/x86/Debug/RandomClass.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/RandomClass/RandomClass/obj/x86/Debug/RandomClass.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/RandomClass/RandomClass/obj/x86/Debug/RandomClass.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/RandomClass/RandomClass/obj/x86/Debug/RandomClass.pdb

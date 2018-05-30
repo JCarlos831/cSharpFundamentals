@@ -51,6 +51,11 @@ namespace If_Else_and_Switch_Case_Demo
                     Console.WriteLine("I don't understand that season!");
                     break;
             }
+
+            bool workingOnCode = true;
+
+            var push = (workingOnCode) ? "Push it" : "Get to work";
+            Console.Write(push);
         }
     }
 }

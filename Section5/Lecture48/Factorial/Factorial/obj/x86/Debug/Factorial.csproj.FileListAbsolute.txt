@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/Factorial/Factorial/bin/Debug/Factorial.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/Factorial/Factorial/bin/Debug/Factorial.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/Factorial/Factorial/obj/x86/Debug/Factorial.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/Factorial/Factorial/obj/x86/Debug/Factorial.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/Factorial/Factorial/obj/x86/Debug/Factorial.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/Factorial/Factorial/obj/x86/Debug/Factorial.pdb

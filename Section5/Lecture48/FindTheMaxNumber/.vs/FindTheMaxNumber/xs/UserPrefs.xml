@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EE4F2C2A-2A3C-4496-BB43-7A8941AC5E8B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindTheMaxNumber/Program.cs">
+    <Files>
+      <File FileName="FindTheMaxNumber/Program.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.FindTheMaxNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

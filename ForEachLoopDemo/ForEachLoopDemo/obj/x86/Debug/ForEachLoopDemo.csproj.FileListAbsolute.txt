@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/ForEachLoopDemo/ForEachLoopDemo/bin/Debug/ForEachLoopDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/ForEachLoopDemo/ForEachLoopDemo/bin/Debug/ForEachLoopDemo.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/ForEachLoopDemo/ForEachLoopDemo/obj/x86/Debug/ForEachLoopDemo.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/ForEachLoopDemo/ForEachLoopDemo/obj/x86/Debug/ForEachLoopDemo.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/ForEachLoopDemo/ForEachLoopDemo/obj/x86/Debug/ForEachLoopDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/ForEachLoopDemo/ForEachLoopDemo/obj/x86/Debug/ForEachLoopDemo.pdb

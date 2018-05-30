@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5904C77F-623E-4D4A-BD6D-AAF97D45D600}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DivisibleBy3NoRemainder/Program.cs">
+    <Files>
+      <File FileName="DivisibleBy3NoRemainder/Program.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DivisibleBy3NoRemainder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section5/Lecture48/DivisibleBy3NoRemainder/DivisibleBy3NoRemainder/Program.cs" relfile="DivisibleBy3NoRemainder/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
