@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{79F371B5-37E0-49A9-ACAF-3D3B5E689A9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lecture54ListsDemo/Program.cs">
+    <Files>
+      <File FileName="Lecture54ListsDemo/Program.cs" Line="7" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lecture54ListsDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
