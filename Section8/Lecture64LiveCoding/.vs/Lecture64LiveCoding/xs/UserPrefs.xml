@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2D77AD3F-6DC9-41AA-AC22-A8C3B7E3DF8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lecture64LiveCoding/Program.cs">
+    <Files>
+      <File FileName="Lecture64LiveCoding/Program.cs" Line="19" Column="1" />
+      <File FileName="Lecture64LiveCoding/StringUtility.cs" Line="33" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lecture64LiveCoding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

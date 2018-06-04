@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section6/Lecture55Exercises/Names/Names/bin/Debug/Names.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section6/Lecture55Exercises/Names/Names/bin/Debug/Names.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section6/Lecture55Exercises/Names/Names/obj/x86/Debug/Names.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section6/Lecture55Exercises/Names/Names/obj/x86/Debug/Names.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section6/Lecture55Exercises/Names/Names/obj/x86/Debug/Names.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section6/Lecture55Exercises/Names/Names/obj/x86/Debug/Names.pdb

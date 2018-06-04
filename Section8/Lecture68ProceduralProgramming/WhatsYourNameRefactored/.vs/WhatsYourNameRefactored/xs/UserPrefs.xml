@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D56A2344-CA40-46EF-8920-6AC04412584C}|Default">
+  <MonoDevelop.Ide.ItemProperties.WhatsYourNameRefactored PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatsYourNameRefactored/Program.cs">
+    <Files>
+      <File FileName="WhatsYourNameRefactored/Program.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

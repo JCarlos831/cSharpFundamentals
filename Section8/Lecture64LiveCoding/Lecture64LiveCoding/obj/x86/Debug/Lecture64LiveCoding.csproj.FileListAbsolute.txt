@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section8/Lecture64LiveCoding/Lecture64LiveCoding/bin/Debug/Lecture64LiveCoding.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section8/Lecture64LiveCoding/Lecture64LiveCoding/bin/Debug/Lecture64LiveCoding.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section8/Lecture64LiveCoding/Lecture64LiveCoding/obj/x86/Debug/Lecture64LiveCoding.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section8/Lecture64LiveCoding/Lecture64LiveCoding/obj/x86/Debug/Lecture64LiveCoding.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section8/Lecture64LiveCoding/Lecture64LiveCoding/obj/x86/Debug/Lecture64LiveCoding.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section8/Lecture64LiveCoding/Lecture64LiveCoding/obj/x86/Debug/Lecture64LiveCoding.pdb
