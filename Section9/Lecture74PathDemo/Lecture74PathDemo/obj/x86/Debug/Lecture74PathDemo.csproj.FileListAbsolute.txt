@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section9/Lecture74PathDemo/Lecture74PathDemo/bin/Debug/Lecture74PathDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section9/Lecture74PathDemo/Lecture74PathDemo/bin/Debug/Lecture74PathDemo.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section9/Lecture74PathDemo/Lecture74PathDemo/obj/x86/Debug/Lecture74PathDemo.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section9/Lecture74PathDemo/Lecture74PathDemo/obj/x86/Debug/Lecture74PathDemo.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section9/Lecture74PathDemo/Lecture74PathDemo/obj/x86/Debug/Lecture74PathDemo.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section9/Lecture74PathDemo/Lecture74PathDemo/obj/x86/Debug/Lecture74PathDemo.pdb

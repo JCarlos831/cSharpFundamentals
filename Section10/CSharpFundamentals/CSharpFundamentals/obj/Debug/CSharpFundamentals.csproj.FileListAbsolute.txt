@@ -1,0 +1,13 @@
+C:/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/CSharpFundamentals.exe.config
+C:/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/CSharpFundamentals.exe
+C:/Projects/CSharpFundamentals/CSharpFundamentals/bin/Debug/CSharpFundamentals.pdb
+C:/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/CSharpFundamentals.exe
+C:/Projects/CSharpFundamentals/CSharpFundamentals/obj/Debug/CSharpFundamentals.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section10/CSharpFundamentals/CSharpFundamentals/bin/Debug/CSharpFundamentals.exe.config
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section10/CSharpFundamentals/CSharpFundamentals/bin/Debug/CSharpFundamentals.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section10/CSharpFundamentals/CSharpFundamentals/bin/Debug/CSharpFundamentals.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section10/CSharpFundamentals/CSharpFundamentals/obj/Debug/CSharpFundamentals.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section10/CSharpFundamentals/CSharpFundamentals/obj/Debug/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section10/CSharpFundamentals/CSharpFundamentals/obj/Debug/CSharpFundamentals.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_basics_w_mosh/Section10/CSharpFundamentals/CSharpFundamentals/obj/Debug/CSharpFundamentals.pdb

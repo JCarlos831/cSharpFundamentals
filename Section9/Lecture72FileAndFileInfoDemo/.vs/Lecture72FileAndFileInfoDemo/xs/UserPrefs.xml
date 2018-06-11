@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ABD9B60B-FB0D-4CC7-BE8B-A3E66285D75B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lecture72FileAndFileInfoDemo/Program.cs">
+    <Files>
+      <File FileName="Lecture72FileAndFileInfoDemo/Program.cs" Line="25" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lecture72FileAndFileInfoDemo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
